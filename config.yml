@@ -2,7 +2,7 @@
 ## Provide all values as percentages
 TestEnv:
         percentage:
-                80 ## The percentage of test cases to be passed at Jenkins Server.
+                50 ## The percentage of test cases to be passed at Jenkins Server.
 PreProdEnv:
         percentage:
                 60 ## The percentage of test cases to be passed at Test ENV.
