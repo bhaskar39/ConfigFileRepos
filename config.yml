@@ -5,7 +5,7 @@ TestEnv:
                 50 ## The percentage of test cases to be passed at Jenkins Server.
 PreProdEnv:
         percentage:
-                60 ## The percentage of test cases to be passed at Test ENV.
+                61 ## The percentage of test cases to be passed at Test ENV.
 ProdEnv:
         percentage:
                 100 ## The percentage of test cases to be passed at Prod Env.
